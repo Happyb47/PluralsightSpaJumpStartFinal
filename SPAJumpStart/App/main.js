@@ -1,7 +1,7 @@
 ﻿require.config({
     paths: { "text": "durandal/amd/text" }
 });
-
+//test
 define(function(require) {
     var system = require('durandal/system'),
         app = require('durandal/app'),
